@@ -1,0 +1,11 @@
+Make sure to install node modules before running this project ----> npm install in terminal
+
+steps to run this
+
+change the directory to client using cd client in vs code
+npm intall
+npm start (to start development server )
+
+
+
+-----> do complete all the required installation of modules  befor running this project
